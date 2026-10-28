@@ -1,0 +1,13 @@
+[project]
+name = "nebula-heart"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mediapipe>=0.10.35",
+    "numpy>=2.4.6",
+    "opencv-python>=4.13.0.92",
+    "pygame>=2.6.1",
+    "pyopengl>=3.1.10",
+]
